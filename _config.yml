@@ -12,7 +12,7 @@ url: "http://www.tolga-han.com"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /me
+baseurl: /
 
 # Google tracking id to track your visitors
 
@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Tolgahan Cakaloglu"
-title: "{ Tolgahan Cakaloglu }"
+title: "{ Tolgahan Cakaloglu ---- }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"

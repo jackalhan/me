@@ -1,13 +1,15 @@
 // Variables
 
 $primary: #00cdff;
-$dark: #000;
-$light: #fff;
+//$dark: #000;
+$dark: #dbbb8a;
+//$light: #fff;
+$light: #000;
 
 $navbar-text-shadow: true;
 $header-text-shadow: true;
 $header-background-color: $dark;
-$intro-text-color: $light;
+$intro-text-color: $dark;
 $navbar-color: $light;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;

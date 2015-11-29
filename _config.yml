@@ -153,8 +153,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Publications: 'publications'
-  Contact: 'contact'
-  Blog: 'latest-post'
+  Contact: 'contact'  
 
 # Exclusion list from the generated _site
 

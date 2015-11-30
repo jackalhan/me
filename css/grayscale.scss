@@ -278,7 +278,7 @@ a {
     border: 1px solid $primary;
     outline: 0;
     color: #fff;
-    background-color: $primary;
+    background-color: $black;
 }
 
 /* Added in { Personal } */
@@ -419,3 +419,39 @@ body {
 .fourofour {
   border: 1px solid $dark !important;
 }
+
+/* START to customize for publications and projects parts*/
+.publicWrap {
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #DDD;
+}
+.publicImg {
+    text-align: center;
+}
+.publicHeader {
+    font-size: 22px;
+    font-weight: 400;
+    color: #000;
+    text-align: left;
+}
+.publicSummmary {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: left;
+}
+.publicAuthors {
+    font-size: 18px;
+    color: #900;
+    text-align: left;
+}
+.publicState {
+    color: #090;
+    font-size: 16px;
+    text-align: left;
+}
+.publicLink {
+    padding-top: 10px;
+    text-align: left;
+}
+/* END to customize for publications and projects parts*/

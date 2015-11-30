@@ -56,9 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Talent wins games, but teamwork and intelligence wins championships. </br> <small><b><i> M.Jordan</i></b></small>"
-  - text: "If I had asked people what they wanted, they would have said faster horses. </br> <small><b><i> H.Ford</i></b></small>"
-  - text: "Being honest and plain may not let you have a lot of friends however it will always help you to get the right ones"
+  - text: "<small>Talent wins games, but teamwork and intelligence wins championships. </br> <b><i> M.Jordan</i></b></small>"
+  - text: "<small>If I had asked people what they wanted, they would have said faster horses. </br> <small><b><i> H.Ford</i></b></small>"
+  - text: "<small>Being honest and plain may not let you have a lot of friends however it will always help you to get the right ones</small>"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -165,7 +165,7 @@ social:
 pages_list:
   Bio: 'about'
   Timeline: 'timeline'
-  #Publications: 'publications'
+  Publications: 'publications'
   #Projects: 'projects'
   #Sundry: 'sundry'
 

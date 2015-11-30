@@ -4,16 +4,17 @@
 //$dark: #000;
 $dark: #86bfca;
 //$light: #fff;
-$light: #fff;
+$light: #222222;
 $black:#000;
-$primary: $black;
+$white:#fff;
+$primary: $white;
 $navbar-text-shadow: false;
 $header-text-shadow: false;
 $header-background-color: $dark;
-$intro-text-color: $light;
-$navbar-color: $light;
+$intro-text-color: $white;
+$navbar-color: $white;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;
 
-$social-buttons-color: $light;
+$social-buttons-color: $white;

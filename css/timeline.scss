@@ -15,7 +15,7 @@
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #222222;
 }
 
 .timeline>li {
@@ -63,11 +63,15 @@
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    //border: 7px solid #f1f1f1;
+    //siyah gibi olana cevirip, inceltiyorum
+    border: 2px solid #222222;
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f1f1f1;
+    //siyah gibi olana ceviriyorum
+    //background-color: #f1f1f1;
+    background-color: #222222;
 }
 
 .img-me {
@@ -76,11 +80,15 @@
     width: 100px;
     height: 100px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    //border: 7px solid #f1f1f1;
+    //siyah gibi olana cevirip, inceltiyorum
+    border: 3px solid #222222;
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f1f1f1;
+    //siyah gibi olana ceviriyorum
+    //background-color: #f1f1f1;
+    background-color: #222222;
 }
 
 .timeline>li .timeline-image h4 {

@@ -275,10 +275,10 @@ a {
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid $primary;
+    border: 1px solid $black;
     outline: 0;
-    color: #fff;
-    background-color: $black;
+    color: $black;
+    background-color: $white;
 }
 
 /* Added in { Personal } */
@@ -410,7 +410,7 @@ body {
  }
 
 .ok-btn {
-  background-color: $dark;
+  background-color: $black;
   color: $primary;
 }
 
@@ -431,18 +431,20 @@ body {
 }
 .publicHeader {
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 800;
     color: #000;
     text-align: left;
 }
 .publicSummmary {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 50;
     text-align: left;
+    color: #000;
 }
 .publicAuthors {
     font-size: 18px;
-    color: #900;
+    font-weight: 50;
+    color: red;
     text-align: left;
 }
 .publicState {
